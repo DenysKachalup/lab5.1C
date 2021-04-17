@@ -1,0 +1,11 @@
+﻿  Source.cpp
+  Vect.cpp
+  Vector2D.cpp
+D:\OOP\LABOOP\5\lab5.1C\lab5.1C\Vector2D.cpp(34,54): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\OOP\LABOOP\5\lab5.1C\lab5.1C\Vector2D.cpp(35,1): warning C5043: "Vector2D::exp1": спецификация исключения не соответствует предыдущему объявлению
+D:\OOP\LABOOP\5\lab5.1C\lab5.1C\Vector2D.h(24): message : см. объявление "Vector2D::exp1"
+D:\OOP\LABOOP\5\lab5.1C\lab5.1C\Vector2D.cpp(43,52): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\OOP\LABOOP\5\lab5.1C\lab5.1C\Vector2D.cpp(44,1): warning C5043: "Vector2D::exp2": спецификация исключения не соответствует предыдущему объявлению
+D:\OOP\LABOOP\5\lab5.1C\lab5.1C\Vector2D.h(23): message : см. объявление "Vector2D::exp2"
+  Создание кода...
+  lab5.1C.vcxproj -> D:\OOP\LABOOP\5\lab5.1C\Debug\lab5.1C.exe
